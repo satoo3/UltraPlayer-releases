@@ -1,19 +1,32 @@
 # UltraPlayer for Mac
 
-**日本語**
-
-UltraPlayer for Mac は、同じ Wi-Fi につながっている iPhone 版 UltraPlayer を、Mac のメニューバーから操作するアプリです。
-
-- ダウンロード: [Releases](../../releases) から DMG をダウンロードしてください。
-- 動作環境: macOS 12 以降。iPhone 版 UltraPlayer が必要です。
-- サポート: https://www.ultrawarp.jp/ultraplayer/
-
-**English**
-
+同じ Wi-Fi につながっている iPhone 版 UltraPlayer を、Mac のメニューバーから操作するアプリです。
 UltraPlayer for Mac lets you control the UltraPlayer iPhone app on the same Wi-Fi network from your Mac's menu bar.
 
-- Download: get the DMG from [Releases](../../releases).
-- Requirements: macOS 12 or later, and the UltraPlayer iPhone app.
-- Support: https://www.ultrawarp.jp/ultraplayer/
+製品ページ / Website: https://www.ultrawarp.jp/ultraplayer/
 
-© 2026 Ultrawarp
+## ダウンロード / Download
+
+[最新のリリース / Latest release](https://github.com/satoo3/UltraPlayer-releases/releases/latest) から `UltraPlayer-<version>.dmg` をダウンロードして開き、
+UltraPlayer を「アプリケーション」フォルダに入れてください。
+
+Download `UltraPlayer-<version>.dmg` from the [latest release](https://github.com/satoo3/UltraPlayer-releases/releases/latest),
+open it, and drag UltraPlayer to your Applications folder.
+
+- macOS 12 Monterey 以降 / macOS 12 Monterey or later
+- iPhone 版 UltraPlayer が必要です / Requires the UltraPlayer iPhone app
+- Developer ID で署名し、Apple の公証済み / Signed with Developer ID and notarized by Apple
+
+## ライセンス / License
+
+UltraPlayer for Mac は無料でダウンロード・利用できますが、オープンソースではありません。
+UltraPlayer for Mac is free to download and use. It is not open source.
+
+© 2026 Ultrawarp, all rights reserved.
+
+## お問い合わせ / Contact
+
+https://www.ultrawarp.jp/ultraplayer/
+
+このリポジトリは配布専用です（ソースコードは含みません）。
+This repository is for distribution only and does not contain source code.
