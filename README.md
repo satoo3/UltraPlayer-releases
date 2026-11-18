@@ -7,10 +7,10 @@ UltraPlayer for Mac lets you control the UltraPlayer iPhone app on the same Wi-F
 
 ## ダウンロード / Download
 
-[最新のリリース / Latest release](https://github.com/satoo3/UltraPlayer-releases/releases/latest) から `UltraPlayer-<version>.dmg` をダウンロードして開き、
+[最新のリリース / Latest release](https://github.com/satoo3/UltraPlayer-releases/releases/latest) から `UltraPlayer-<version>-mac.dmg` をダウンロードして開き、
 UltraPlayer を「アプリケーション」フォルダに入れてください。
 
-Download `UltraPlayer-<version>.dmg` from the [latest release](https://github.com/satoo3/UltraPlayer-releases/releases/latest),
+Download `UltraPlayer-<version>-mac.dmg` from the [latest release](https://github.com/satoo3/UltraPlayer-releases/releases/latest),
 open it, and drag UltraPlayer to your Applications folder.
 
 - macOS 12 Monterey 以降 / macOS 12 Monterey or later
@@ -26,7 +26,7 @@ UltraPlayer for Mac is free to download and use. It is not open source.
 
 ## お問い合わせ / Contact
 
-https://www.ultrawarp.jp/ultraplayer/
+support@ultrawarp.jp
 
 このリポジトリは配布専用です（ソースコードは含みません）。
 This repository is for distribution only and does not contain source code.
