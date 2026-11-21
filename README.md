@@ -11,7 +11,7 @@ Website: https://www.ultrawarp.jp/ultraplayer/
 Download `UltraPlayer-<version>-mac.dmg` from the [latest release](https://github.com/satoo3/UltraPlayer-releases/releases/latest),
 open it, and drag UltraPlayer to your Applications folder.
 
-- macOS 12 Monterey or later
+- macOS 12 Monterey or later, Apple silicon Macs only (Intel Macs are not supported)
 - Requires the UltraPlayer iPhone app
 - Signed with Developer ID and notarized by Apple
 

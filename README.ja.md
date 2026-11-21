@@ -11,7 +11,7 @@
 [最新のリリース](https://github.com/satoo3/UltraPlayer-releases/releases/latest) から `UltraPlayer-<version>-mac.dmg` をダウンロードして開き、
 UltraPlayer を「アプリケーション」フォルダに入れてください。
 
-- macOS 12 Monterey 以降
+- macOS 12 Monterey 以降、Apple シリコンの Mac 専用（Intel の Mac では動きません）
 - iPhone 版 UltraPlayer が必要です
 - Developer ID で署名し、Apple の公証済み
 
